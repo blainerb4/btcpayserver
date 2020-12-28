@@ -11541,17 +11541,17 @@ low-fee-timeline {
         color: #418e32;
     }
 
-.powered__by__btcpayserver {
+.powered__by__poplarpay {
     margin-top: 10px;
     text-align: center;
     color: #818a91;
     font-size: small;
 }
 
-    .powered__by__btcpayserver a {
+    .powered__by__poplarpay a {
         color: #51b13e;
     }
 
-        .powered__by__btcpayserver a:hover {
+        .powered__by__poplarpay a:hover {
             color: #418e32;
         }

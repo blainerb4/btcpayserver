@@ -1,6 +1,6 @@
 {
-    "name": "BTCPayServer Point of Sale",
-    "short_name": "BTCPay POS",
+    "name": "Poplar Pay Point of Sale",
+    "short_name": "Poplar Pay POS",
     "theme_color": "#1e7a44",
     "background_color": "#ffffff",
     "display": "standalone",
